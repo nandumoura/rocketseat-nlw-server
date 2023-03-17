@@ -9,7 +9,7 @@
     "build": "tsc -p ."
   },
   "keywords": [],
-  "author": "Jane Doe",
+  "author": "Fernando Moura",
   "license": "ISC",
   "devDependencies": {
     "@swc/jest": "^0.2.20",
